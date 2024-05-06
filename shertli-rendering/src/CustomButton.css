@@ -1,0 +1,24 @@
+.main{
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
+button{
+    border-radius: 10px;
+    width: 100px;
+}
+.text{
+    margin-left: 30%;
+    margin-top: 20px;
+    display: none;
+    font-style: italic;
+}
+
+h4{
+    display: none;
+    margin-top: 30px;
+}
+
+h3{
+    margin-top: 20px;
+}
